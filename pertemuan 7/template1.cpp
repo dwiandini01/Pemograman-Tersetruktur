@@ -5,7 +5,6 @@ template <typename T>
 
 T jumlah(T a, T b){
     return a + b;
-
 }
 
 int main() {
